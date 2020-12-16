@@ -5,4 +5,5 @@ void main()
     printf("3. hello world\n");
     printf("4. hello world\n");
     printf("5. hello world\n");
+    printf("6. hello world\n");
 }
