@@ -7,4 +7,5 @@ void main()
     printf("5. hello world\n");
     printf("6. hello world\n");
     printf("8. hello world\n");
+    printf("9. hello world\n");
 }
