@@ -1,3 +1,4 @@
+// git reset --hard 
 void main()
 {
     printf("1. hello world\n");
