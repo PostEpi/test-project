@@ -8,4 +8,5 @@ void main()
     printf("6. hello world\n");
     printf("8. hello world\n");
     printf("9. hello world\n");
+    printf("12. hello world\n");
 }
